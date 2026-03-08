@@ -1,2 +1,10 @@
-# credit-risk-analysis
-End-to-end credit risk project: data cleaning, star schema modeling in BigQuery, statistical analysis in R, predictive modeling in Python, business insights &amp; dashboard
+# Credit Risk Analysis & Loan Default Prediction
+
+End-to-end project using public credit risk data.
+
+- Python EDA & modeling
+- BigQuery star schema
+- R statistical analysis
+- Business dashboard & insights
+
+Work in progress — first commit coming soon!
